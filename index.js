@@ -1,4 +1,4 @@
-function changeColour() {
+function changeSize() {
     let text = document.getElementById("button").style.backgroundSize = 120%;
 
 function returnOriginal() {
