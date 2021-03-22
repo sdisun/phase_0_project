@@ -1,13 +1,22 @@
 body {
-    background-color: #0e3641;
-  }
-  
-  div {
-    width: 700px;
+    margin: 0;
+    padding: 0;
+    background-color: gray;
+    background-size: cover;
+}
+.box{
+    width: 450px;
+    background: rgba(0, 0, 0, 0.4);
+    padding: 40px;
+    text-align: center;
     margin: auto;
-    font-family: Helvetica Neue;
-    background: white;
-    padding: 30px;
-  }
-  
-  th {text-align: left}
+    margin-top: 5%;
+    color: white;
+    font-family: 'Century Gothic', sans-serif;
+}
+img{
+  border-radius: 8px;
+  width: 200px;
+  height: 200px;
+
+}
